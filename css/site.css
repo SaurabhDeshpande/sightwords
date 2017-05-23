@@ -1,0 +1,15 @@
+.intro {
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+}
+
+.words {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
